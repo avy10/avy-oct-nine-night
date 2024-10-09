@@ -1,0 +1,10 @@
+.selection {
+	height: min-content;
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+	font-weight: 600;
+	column-gap: 5px;
+	color: white;
+	margin-right: 20px;
+}
